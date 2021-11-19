@@ -1,6 +1,6 @@
 ![logo](img/logoUTN.jpg)
 
-# Repositorio oficial de la cátedra Análisis de Señales Y Sistemas de la Universidad Tecnológica Nacional, Facultad Regional Mendoza
+# Repositorio oficial de la cátedra Análisis de Señales Y Sistemas.
 
 *Contacto:
 JTP: javier.velez@docentes.frm.utn.edu.ar
